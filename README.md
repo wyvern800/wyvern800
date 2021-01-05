@@ -8,3 +8,4 @@
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Cookies
 -->
+Hello, i'm Matheus, i'm a brazilian fullstacks developer, I love Java but I am able to develop with some other langs like js, and a bit of C# & python, and I've been working on some personal projects for fun which mostly pinned here are mine, so you can check 'em out <3 
