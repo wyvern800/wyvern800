@@ -15,5 +15,6 @@ Hello, i'm **Matheus**, i'm a brazilian fullstacks developer, I'm a **Java** lov
 - JavaFX
 - React.js
 - Express.js
+- Angular
 
 #### And yes, i'm looking for a job
