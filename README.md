@@ -12,9 +12,5 @@ Hello, i'm **Matheus**, i'm a brazilian fullstacks developer, I'm a **Java** lov
 
 ## Frameworks I know of
 - Spring Framework
-- JavaFX
 - React.js
 - Express.js
-- Angular
-
-#### And yes, i'm looking for a job
