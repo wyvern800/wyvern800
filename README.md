@@ -10,7 +10,7 @@
 -->
 Hello, i'm **Matheus**, i'm a brazilian fullstacks developer, I'm a **Java** lover but I am able to develop with some other langs like **js**, and a bit of **C#** & **Python**, and I've been working on some personal projects for fun which every pinned here are mine, so you can check 'em out <3 
 
-## Frameworks I know of
+## I'm comfy with
 - Spring Framework
 - React.js
 - Express.js
