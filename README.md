@@ -8,9 +8,10 @@
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Cookies
 -->
-Hello, i'm **Matheus**, i'm a brazilian fullstacks developer, I'm a **Java** lover but I am able to develop with some other langs like **JavaScript**, and a bit of **C#** & **Python**, and I've been working on some personal projects for fun which every pinned here are mine, so you can check them out <3 
+Hello, i'm **Matheus**, based in Brazil and a fullstacks developer. I used to be a **Java** lover but as JS and Type entered deeply in my life these last years, it now became my best-in-slot language. I've been working on some personal projects in my free time for fun which every pinned here are mine or I collaborate with other's projects, so you can check them out <3 
 
 ## I'm comfy with
-- React.js
+- React.js | JavaScript and TypeScript
+- Node.js (Express.js w/ TypeORM)
 - Spring Framework
-- Express.js
+- AWS services in general
