@@ -11,8 +11,10 @@
 Hello, i'm **Matheus**, based in Brazil and a fullstacks developer. I used to be a **Java** lover but as JS entered deeply in my life these last years, it now became my best-in-slot language. I've been working on some personal projects in my free time for fun which every pinned here are mine or I collaborate with other people's projects, so you can check them out <3 
 
 ## I'm comfy with
-- Vanilla JS
+- Vanilla JavaScript
 - React.js | NextJS
 - Node.js | Express.js | NestJS | Adonis
 - Java - Spring Framework
-- Amazon Web Services
+- MySql | MongoDB | PostgreSQL
+- TypeOrm | Prisma 
+- Amazon Web Services | Google Cloud Platform
